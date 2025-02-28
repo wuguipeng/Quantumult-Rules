@@ -1,0 +1,29 @@
+; 内容：OpenAi
+; 数量：14条
+host,browser-intake-datadoghq.com
+host,static.cloudflareinsights.com
+host-suffix,ai.com
+host-suffix,algolia.net
+host-suffix,api.statsig.com
+host-suffix,auth0.com
+host-suffix,chatgpt.com
+host-suffix,chatgpt.livekit.cloud
+host-suffix,client-api.arkoselabs.com
+host-suffix,events.statsigapi.net
+host-suffix,featuregates.org
+host-suffix,host.livekit.cloud
+host-suffix,identrust.com
+host-suffix,intercom.io
+host-suffix,intercomcdn.com
+host-suffix,launchdarkly.com
+host-suffix,oaistatic.com
+host-suffix,oaiusercontent.com
+host-suffix,observeit.net
+host-suffix,segment.io
+host-suffix,sentry.io
+host-suffix,stripe.com
+host-suffix,turn.livekit.cloud
+host-keyword,openai
+ip-cidr,24.199.123.28/32,no-resolve
+ip-cidr,64.23.132.171/32,no-resolve
+IP-ASN,20473,no-resolve

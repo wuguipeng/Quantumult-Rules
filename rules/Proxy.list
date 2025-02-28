@@ -1,0 +1,87 @@
+; 论坛
+host-suffix,v2ex.com
+host-suffix,nodeseek.com
+host-suffix,hostloc.com
+
+; imgur
+host-suffix,imgur.com
+
+; nnr
+host-suffix,nnr.moe
+
+; annas
+host-suffix,annas-archive.org
+host-suffix,momot.rs
+
+; z-lib
+host-suffix,z-lib.gs
+
+; unsplash
+host-suffix,unsplash.com
+
+; unsplash
+host-suffix,godaddy.com
+
+; btdig
+host-suffix,btdig.com
+
+; 磁力网站
+host-suffix,nyaa.si
+host-suffix,mikanime.me
+host-suffix,bangumi.moe
+host-suffix,dmhy.org
+host-suffix,acgnx.se
+host-suffix,acg.rip
+host-suffix,mikanani.me
+host-suffix,nyaa.land
+host-suffix,qbittorrent.org
+host-suffix,1337x.to
+host-suffix,1lou.me
+host-suffix,bitsearch.to
+host-suffix,nullbr.online
+
+; 元数据
+host-suffix,themoviedb.org
+host-suffix,tmdb.org
+host-suffix,musicbrainz.org
+host-suffix,javdb.com
+host-suffix,thetvdb.com
+
+; homepage
+host-suffix,gethomepage.dev
+
+; vercel
+host-suffix,vercel.app
+
+; notion
+host-suffix,notion.so
+
+; cloud
+host-suffix,ca.ovh.com
+host-suffix,ovhcloud.com
+host-suffix,netcup.com
+host-suffix,ovh.ie
+host-suffix,hetzner.com
+host-suffix,claw.cloud
+host-suffix,cloudcone.com
+host-suffix,serv00.com
+
+; mega
+host-suffix,mega.nz
+host-suffix,mega.io
+
+; 未归档
+host-suffix,wordpress.com
+host-suffix,magnetdl.com
+host-suffix,missav.com
+host-suffix,xunleix.com
+host-suffix,changeip.com
+host-suffix,overleaf.com
+host-suffix,perplexity.ai
+host-suffix,nextui.org
+host-suffix,nextjs.org
+host-suffix,axshare.com
+host-suffix,freenom.com
+host-suffix,genius.com
+host-suffix,limetorrents.lol
+host-suffix,ubuntu.com

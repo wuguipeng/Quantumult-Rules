@@ -1,0 +1,26 @@
+; 内容：Google
+; 数量：24条
+host-keyword,gmail
+host-keyword,google
+host-suffix,1e100.net
+host-suffix,2mdn.net
+host-suffix,app-measurement.net
+host-suffix,g.co
+host-suffix,ggpht.com
+host-suffix,goo.gl
+host-suffix,googleapis.cn
+host-suffix,googleapis.com
+host-suffix,gstatic.cn
+host-suffix,gstatic.com
+host-suffix,gvt0.com
+host-suffix,gvt1.com
+host-suffix,gvt2.com
+host-suffix,gvt3.com
+host-suffix,xn--ngstr-lra8j.com
+host-suffix,youtu.be
+host-suffix,youtube-nocookie.com
+host-suffix,youtube.com
+host-suffix,yt.be
+host-suffix,ytimg.com
+ip-cidr,74.125.0.0/16,no-resolve
+ip-cidr,173.194.0.0/16,no-resolve

@@ -1,0 +1,23 @@
+; 内容：Developer 开发者常用国外网站、镜像和论坛
+; 数量：19条
+host-suffix,apache.org
+host-suffix,docker.com
+host-suffix,elastic.co
+host-suffix,elastic.com
+host-suffix,gcr.io
+host-suffix,gitlab.com
+host-suffix,gitlab.io
+host-suffix,jitpack.io
+host-suffix,maven.org
+host-suffix,medium.com
+host-suffix,mvnrepository.com
+host-suffix,quay.io
+host-suffix,redhat.com
+host-suffix,sonatype.org
+host-suffix,sourcegraph.com
+host-suffix,spring.io
+host-suffix,spring.net
+host-suffix,stackoverflow.com
+host-suffix,brew.sh
+host-suffix,registry.npmjs.org
+host-suffix,pypi.org
