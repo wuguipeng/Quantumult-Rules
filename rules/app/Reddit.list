@@ -1,7 +1,7 @@
 ; 内容：Reddit Services
 ; 数量：3条
 
-host-suffix,redditmedia.com
-host-suffix,redd.it
-host-suffix,reddit.com
-host-suffix,redditstatic.com
+host-suffix,redditmedia.com,Reddit
+host-suffix,redd.it,Reddit
+host-suffix,reddit.com,Reddit
+host-suffix,redditstatic.com,Reddit

@@ -19,34 +19,82 @@ doh-server = https://dns.alidns.com/dns-query,https://223.6.6.6/dns-query,https:
 ;doh-server=https://dns.alidns.com/dns-query,https://dns.google/dns-query
 
 [policy]
-static = all-node, Hong Kong, Singapore, Taiwan, United States, Japan, Korea, Other, direct,  img-url=https://cdn.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Airport.png
-static = Final, all-node, proxy, direct, img-url=https://cdn.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Final.png
-// 分流
-static = Apple,        direct, proxy, reject, all-node, img-url= https://cdn.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Apple.png
-static = Google,       direct, proxy, reject, all-node, img-url=https://cdn.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Google.png
-static = Microsoft,    direct, proxy, reject, all-node, img-url=https://cdn.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Microsoft.png
-static = Hijacking,    direct, proxy, reject, img-url=https://cdn.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Hijacking.png
-static = Advertising,  direct, proxy, reject, img-url= https://cdn.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Advertising.png
-// 按地区分类
-static = Hong Kong,     direct, proxy, server-tag-regex=香港|Hong Kong|HK|hk, img-url=https://cdn.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Hong_Kong.png
-static = Singapore,     direct, proxy, server-tag-regex=新加坡|Singapore|SG|sg, img-url=https://cdn.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Singapore.png
-static = Taiwan,        direct, proxy, server-tag-regex=台湾|Taiwan|TW|tw|台北, img-url=https://cdn.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Taiwan.png
+;static = all-node, Hong Kong, Singapore, Taiwan, United States, Japan, Korea, Other, direct,  img-url=https://cdn.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Airport.png
+static = all-node, United States, direct, proxy, reject,  img-url=https://cdn.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Airport.png
+
+;static = Final, all-node, proxy, direct, img-url=https://cdn.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Final.png
+; 分流
+;static = Amazon,        direct, proxy, reject, all-node
+;static = Discord,       direct, proxy, reject, all-node
+;static = Facebook,      direct, proxy, reject, all-node
+;static = Github,        direct, proxy, reject, all-node
+;static = Google,        direct, proxy, reject, all-node
+;static = Instagram,     direct, proxy, reject, all-node
+;static = Linkedin,      direct, proxy, reject, all-node
+;static = Microsoft,     direct, proxy, reject, all-node
+;static = Netflix,       direct, proxy, reject, all-node
+static = OneDrive,      direct, proxy, reject, all-node
+static = OpenAi,        direct, proxy, reject, all-node
+;static = Ozon,          direct, proxy, reject, all-node
+;static = Pikpak,        direct, proxy, reject, all-node
+;static = Plex,          direct, proxy, reject, all-node
+;static = Reddit,        direct, proxy, reject, all-node
+static = Telegram,      direct, proxy, reject, all-node
+;static = Whatsapp,      direct, proxy, reject, all-node
+;static = Wikipedia,     direct, proxy, reject, all-node
+;static = X,             direct, proxy, reject, all-node
+;static = Youtube,       direct, proxy, reject, all-node
+;static = YoutubeMusic,  direct, proxy, reject, all-node
+;static = Developer,     direct, proxy, reject, all-node
+;static = Hijacking,     direct, proxy, reject
+;static = Advertising,   direct, proxy, reject
+; 按地区分类
+;static = Hong Kong,     direct, proxy, server-tag-regex=香港|Hong Kong|HK|hk, img-url=https://cdn.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Hong_Kong.png
+;static = Singapore,     direct, proxy, server-tag-regex=新加坡|Singapore|SG|sg, img-url=https://cdn.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Singapore.png
+;static = Taiwan,        direct, proxy, server-tag-regex=台湾|Taiwan|TW|tw|台北, img-url=https://cdn.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Taiwan.png
 static = United States, direct, proxy, server-tag-regex=美国|United States|US|us, img-url=https://cdn.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/United_States.png
-static = Japan,         direct, proxy, server-tag-regex=日本|Japan|JP|jp, img-url=https://cdn.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Japan.png
-static = Korea,         direct, proxy, server-tag-regex=韩国|Korea|KR|kr, img-url=https://cdn.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Korea.png
-static = Other,         direct, proxy, server-tag-regex=印度|巴西|阿根廷|英国|澳门|土耳其|挪威|瑞士|俄罗斯|瑞典|爱尔兰|法国|菲律宾|越南|泰国|印度尼西亚|德国|英国|荷兰|乌克兰, img-url=https://cdn.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/AIA.png
+;static = Japan,         direct, proxy, server-tag-regex=日本|Japan|JP|jp, img-url=https://cdn.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Japan.png
+;static = Korea,         direct, proxy, server-tag-regex=韩国|Korea|KR|kr, img-url=https://cdn.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Korea.png
+;static = Other,         direct, proxy, server-tag-regex=印度|巴西|阿根廷|英国|澳门|土耳其|挪威|瑞士|俄罗斯|瑞典|爱尔兰|法国|菲律宾|越南|泰国|印度尼西亚|德国|英国|荷兰|乌克兰, img-url=https://cdn.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/AIA.png
 
 
 [server_remote]
 
 [filter_remote]
+https://raw.githubusercontent.com/wuguipeng/Quantumult-Rules/refs/heads/main/rules/app/Amazon.list, tag=Amazon,enabled=true,force-policy=proxy
+https://raw.githubusercontent.com/wuguipeng/Quantumult-Rules/refs/heads/main/rules/app/Discord.list, tag=Discord, enabled=true,force-policy=proxy
+https://raw.githubusercontent.com/wuguipeng/Quantumult-Rules/refs/heads/main/rules/app/Facebook.list, tag=Facebook, enabled=true,force-policy=proxy
+https://raw.githubusercontent.com/wuguipeng/Quantumult-Rules/refs/heads/main/rules/app/Github.list, tag=Github ,enabled=true,force-policy=proxy
+https://raw.githubusercontent.com/wuguipeng/Quantumult-Rules/refs/heads/main/rules/app/Google.list, tag=Google ,enabled=true,force-policy=proxy
+https://raw.githubusercontent.com/wuguipeng/Quantumult-Rules/refs/heads/main/rules/app/Instagram.list, tag=Instagram ,enabled=true,force-policy=proxy
+https://raw.githubusercontent.com/wuguipeng/Quantumult-Rules/refs/heads/main/rules/app/Linkedin.list, tag=Linkedin ,enabled=true,force-policy=proxy
+https://raw.githubusercontent.com/wuguipeng/Quantumult-Rules/refs/heads/main/rules/app/Microsoft.list, tag=Microsoft ,enabled=true,force-policy=proxy
+https://raw.githubusercontent.com/wuguipeng/Quantumult-Rules/refs/heads/main/rules/app/Netflix.list, tag=Netflix ,enabled=true,force-policy=proxy
+https://raw.githubusercontent.com/wuguipeng/Quantumult-Rules/refs/heads/main/rules/app/OneDrive.list,    tag=OneDrive, enabled=true
+https://raw.githubusercontent.com/wuguipeng/Quantumult-Rules/refs/heads/main/rules/app/OpenAi.list, tag=OpenAi ,enabled=true
+https://raw.githubusercontent.com/wuguipeng/Quantumult-Rules/refs/heads/main/rules/app/Ozon.list, tag=Ozon ,enabled=true,force-policy=proxy
+https://raw.githubusercontent.com/wuguipeng/Quantumult-Rules/refs/heads/main/rules/app/Pikpak.list, tag=Pikpak ,enabled=true,force-policy=proxy
+https://raw.githubusercontent.com/wuguipeng/Quantumult-Rules/refs/heads/main/rules/app/Plex.list, tag=Plex ,enabled=true,force-policy=proxy
+https://raw.githubusercontent.com/wuguipeng/Quantumult-Rules/refs/heads/main/rules/app/Reddit.list, tag=Reddit ,enabled=true,force-policy=proxy
+https://raw.githubusercontent.com/wuguipeng/Quantumult-Rules/refs/heads/main/rules/app/Telegram.list, tag=Telegram ,enabled=true
+https://raw.githubusercontent.com/wuguipeng/Quantumult-Rules/refs/heads/main/rules/app/Whatsapp.list, tag=Whatsapp, enabled=true,force-policy=proxy
+https://raw.githubusercontent.com/wuguipeng/Quantumult-Rules/refs/heads/main/rules/app/Wikipedia.list, tag=Wikipedia ,enabled=true,force-policy=proxy
+https://raw.githubusercontent.com/wuguipeng/Quantumult-Rules/refs/heads/main/rules/app/X.list, tag=X ,enabled=true,force-policy=proxy
+https://raw.githubusercontent.com/wuguipeng/Quantumult-Rules/refs/heads/main/rules/app/Youtube.list, tag=Youtube, enabled=true,force-policy=proxy
+https://raw.githubusercontent.com/wuguipeng/Quantumult-Rules/refs/heads/main/rules/app/YoutubeMusic.list, tag=YoutubeMusic ,enabled=true,force-policy=proxy
+https://raw.githubusercontent.com/wuguipeng/Quantumult-Rules/refs/heads/main/rules/Developer.list, tag=Developer, enabled=true,force-policy=proxy
+https://raw.githubusercontent.com/wuguipeng/Quantumult-Rules/refs/heads/main/rules/Proxy.list, tag=Proxy, enabled=true,force-policy=proxy
+
 
 [rewrite_remote]
 
 [server_local]
 
 
+
+
 [filter_local]
+host-suffix, githubusercontent.com, direct
 ip6-cidr, 2001:4860:4860::8888/32, direct
 ip-cidr, 10.0.0.0/8, direct
 ip-cidr, 127.0.0.0/8, direct

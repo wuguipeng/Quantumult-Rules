@@ -1,87 +1,87 @@
 ; 论坛
-host-suffix,v2ex.com
-host-suffix,nodeseek.com
-host-suffix,hostloc.com
+host-suffix,v2ex.com,proxy
+host-suffix,nodeseek.com,proxy
+host-suffix,hostloc.com,proxy
 
 ; imgur
-host-suffix,imgur.com
+host-suffix,imgur.com,proxy
 
 ; nnr
-host-suffix,nnr.moe
+host-suffix,nnr.moe,proxy
 
 ; annas
-host-suffix,annas-archive.org
-host-suffix,momot.rs
+host-suffix,annas-archive.org,proxy
+host-suffix,momot.rs,proxy
 
 ; z-lib
-host-suffix,z-lib.gs
+host-suffix,z-lib.gs,proxy
 
 ; unsplash
-host-suffix,unsplash.com
+host-suffix,unsplash.com,proxy
 
 ; unsplash
-host-suffix,godaddy.com
+host-suffix,godaddy.com,proxy
 
 ; btdig
-host-suffix,btdig.com
+host-suffix,btdig.com,proxy
 
 ; 磁力网站
-host-suffix,nyaa.si
-host-suffix,mikanime.me
-host-suffix,bangumi.moe
-host-suffix,dmhy.org
-host-suffix,acgnx.se
-host-suffix,acg.rip
-host-suffix,mikanani.me
-host-suffix,nyaa.land
-host-suffix,qbittorrent.org
-host-suffix,1337x.to
-host-suffix,1lou.me
-host-suffix,bitsearch.to
-host-suffix,nullbr.online
+host-suffix,nyaa.si,proxy
+host-suffix,mikanime.me,proxy
+host-suffix,bangumi.moe,proxy
+host-suffix,dmhy.org,proxy
+host-suffix,acgnx.se,proxy
+host-suffix,acg.rip,proxy
+host-suffix,mikanani.me,proxy
+host-suffix,nyaa.land,proxy
+host-suffix,qbittorrent.org,proxy
+host-suffix,1337x.to,proxy
+host-suffix,1lou.me,proxy
+host-suffix,bitsearch.to,proxy
+host-suffix,nullbr.online,proxy
 
 ; 元数据
-host-suffix,themoviedb.org
-host-suffix,tmdb.org
-host-suffix,musicbrainz.org
-host-suffix,javdb.com
-host-suffix,thetvdb.com
+host-suffix,themoviedb.org,proxy
+host-suffix,tmdb.org,proxy
+host-suffix,musicbrainz.org,proxy
+host-suffix,javdb.com,proxy
+host-suffix,thetvdb.com,proxy
 
 ; homepage
-host-suffix,gethomepage.dev
+host-suffix,gethomepage.dev,proxy
 
 ; vercel
-host-suffix,vercel.app
+host-suffix,vercel.app,proxy
 
 ; notion
-host-suffix,notion.so
+host-suffix,notion.so,proxy
 
 ; cloud
-host-suffix,ca.ovh.com
-host-suffix,ovhcloud.com
-host-suffix,netcup.com
-host-suffix,ovh.ie
-host-suffix,hetzner.com
-host-suffix,claw.cloud
-host-suffix,cloudcone.com
-host-suffix,serv00.com
+host-suffix,ca.ovh.com,proxy
+host-suffix,ovhcloud.com,proxy
+host-suffix,netcup.com,proxy
+host-suffix,ovh.ie,proxy
+host-suffix,hetzner.com,proxy
+host-suffix,claw.cloud,proxy
+host-suffix,cloudcone.com,proxy
+host-suffix,serv00.com,proxy
 
 ; mega
-host-suffix,mega.nz
-host-suffix,mega.io
+host-suffix,mega.nz,proxy
+host-suffix,mega.io,proxy
 
 ; 未归档
-host-suffix,wordpress.com
-host-suffix,magnetdl.com
-host-suffix,missav.com
-host-suffix,xunleix.com
-host-suffix,changeip.com
-host-suffix,overleaf.com
-host-suffix,perplexity.ai
-host-suffix,nextui.org
-host-suffix,nextjs.org
-host-suffix,axshare.com
-host-suffix,freenom.com
-host-suffix,genius.com
-host-suffix,limetorrents.lol
-host-suffix,ubuntu.com
+host-suffix,wordpress.com,proxy
+host-suffix,magnetdl.com,proxy
+host-suffix,missav.com,proxy
+host-suffix,xunleix.com,proxy
+host-suffix,changeip.com,proxy
+host-suffix,overleaf.com,proxy
+host-suffix,perplexity.ai,proxy
+host-suffix,nextui.org,proxy
+host-suffix,nextjs.org,proxy
+host-suffix,axshare.com,proxy
+host-suffix,freenom.com,proxy
+host-suffix,genius.com,proxy
+host-suffix,limetorrents.lol,proxy
+host-suffix,ubuntu.com,proxy

@@ -1,14 +1,14 @@
 ; 内容：Wikipedia 维基相关域名
 ; 数量：12条
-host-suffix,mediawiki.org
-host-suffix,wikibooks.org
-host-suffix,wikidata.org
-host-suffix,wikileaks.org
-host-suffix,wikimedia.org
-host-suffix,wikinews.org
-host-suffix,wikipedia.org
-host-suffix,wikiquote.org
-host-suffix,wikisource.org
-host-suffix,wikiversity.org
-host-suffix,wikivoyage.org
-host-suffix,wiktionary.org
+host-suffix,mediawiki.org,Wikipedia
+host-suffix,wikibooks.org,Wikipedia
+host-suffix,wikidata.org,Wikipedia
+host-suffix,wikileaks.org,Wikipedia
+host-suffix,wikimedia.org,Wikipedia
+host-suffix,wikinews.org,Wikipedia
+host-suffix,wikipedia.org,Wikipedia
+host-suffix,wikiquote.org,Wikipedia
+host-suffix,wikisource.org,Wikipedia
+host-suffix,wikiversity.org,Wikipedia
+host-suffix,wikivoyage.org,Wikipedia
+host-suffix,wiktionary.org,Wikipedia

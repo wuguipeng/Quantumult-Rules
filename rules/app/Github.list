@@ -1,8 +1,8 @@
 ; 内容：Github
 ; 数量：6条
-host-keyword,github
-host-suffix,github.com
-host-suffix,github.io
-host-suffix,githubapp.com
-host-suffix,githubassets.com
-host-suffix,githubusercontent.com
+host-keyword,github,Github
+host-suffix,github.com,Github
+host-suffix,github.io,Github
+host-suffix,githubapp.com,Github
+host-suffix,githubassets.com,Github
+host-suffix,githubusercontent.com,Github

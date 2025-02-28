@@ -1,19 +1,19 @@
 ; 内容：YouTube
 ; 数量：17条
-host-wildcard,*youtube*
-user-agent,YouTube*
-user-agent,com.google.ios.youtube*
-host-keyword,youtube
-host,youtubei.googleapis.com
-host,yt3.ggpht.com
-host-suffix,googlevideo.com
-host-suffix,gvt2.com
-host-suffix,withyoutube.com
-host-suffix,youtu.be
-host-suffix,youtube-nocookie.com
-host-suffix,youtube.com
-host-suffix,youtubeeducation.com
-host-suffix,youtubegaming.com
-host-suffix,youtubekids.com
-host-suffix,yt.be
-host-suffix,ytimg.com
+host-wildcard,*youtube*,YouTube
+user-agent,YouTube*,YouTube
+user-agent,com.google.ios.youtube*,YouTube
+host-keyword,youtube,YouTube
+host,youtubei.googleapis.com,YouTube
+host,yt3.ggpht.com,YouTube
+host-suffix,googlevideo.com,YouTube
+host-suffix,gvt2.com,YouTube
+host-suffix,withyoutube.com,YouTube
+host-suffix,youtu.be,YouTube
+host-suffix,youtube-nocookie.com,YouTube
+host-suffix,youtube.com,YouTube
+host-suffix,youtubeeducation.com,YouTube
+host-suffix,youtubegaming.com,YouTube
+host-suffix,youtubekids.com,YouTube
+host-suffix,yt.be,YouTube
+host-suffix,ytimg.com,YouTube

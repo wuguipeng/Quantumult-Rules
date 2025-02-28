@@ -1,16 +1,16 @@
 ; 内容：x
 ; 数量：11条
-host-keyword,twitter
-host-suffix,periscope.tv
-host-suffix,pscp.tv
-host-suffix,t.co
-host-suffix,twimg.co
-host-suffix,twimg.com
-host-suffix,twimg.org
-host-suffix,twitpic.com
-host-suffix,twitter.com
-host-suffix,twitter.jp
-host-suffix,vine.co
-host-suffix,x.com
-host-suffix,grok.com
-host-suffix,x.ai
+host-keyword,twitter, x
+host-suffix,periscope.tv, x
+host-suffix,pscp.tv, x
+host-suffix,t.co, x
+host-suffix,twimg.co, x
+host-suffix,twimg.com, x
+host-suffix,twimg.org, x
+host-suffix,twitpic.com, x
+host-suffix,twitter.com, x
+host-suffix,twitter.jp, x
+host-suffix,vine.co, x
+host-suffix,x.com, x
+host-suffix,grok.com, x
+host-suffix,x.ai, x
