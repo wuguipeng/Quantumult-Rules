@@ -24,6 +24,6 @@ host-suffix,sentry.io,OpenAi
 host-suffix,stripe.com,OpenAi
 host-suffix,turn.livekit.cloud,OpenAi
 host-keyword,openai,OpenAi
-ip-cidr,24.199.123.28/32,no-resolve,OpenAi
-ip-cidr,64.23.132.171/32,no-resolve,OpenAi
-IP-ASN,20473,no-resolve,OpenAi
+ip-cidr,24.199.123.28/32,OpenAi
+ip-cidr,64.23.132.171/32,OpenAi
+IP-ASN,20473,OpenAi
