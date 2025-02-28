@@ -1,6 +1,6 @@
 ; OneDrive
-PROCESS-NAME,OneDrive,OneDrive,OneDrive
-PROCESS-NAME,OneDriveUpdater,OneDrive
+;PROCESS-NAME,OneDrive,OneDrive
+;PROCESS-NAME,OneDriveUpdater,OneDrive
 user-agent,OneDrive*,OneDrive
 user-agent,OneDriveiOSApp*,OneDrive
 host-keyword,1drv,OneDrive

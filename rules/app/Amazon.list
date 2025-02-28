@@ -40,4 +40,4 @@ ip-cidr,54.93.0.0/16,Amazon
 ip-cidr,54.156.0.0/14,Amazon
 ip-cidr,54.226.0.0/15,Amazon
 ip-cidr,54.230.156.0/22,Amazon
-host-wildcard,^https?:\/\/www\.amazon\.com\/(Amazon-Video|gp\/video)\/,Amazon
+;host-wildcard,^https?:\/\/www\.amazon\.com\/(Amazon-Video|gp\/video)\/,Amazon

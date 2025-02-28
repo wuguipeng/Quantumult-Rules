@@ -1,6 +1,6 @@
 ; 内容：Netflix
 ; 数量：40条
-user-agent,Argo*,Netflix,Netflix
+user-agent,Argo*,Netflix
 host-keyword,apiproxy-device-prod-nlb-,Netflix
 host-keyword,dualstack.apiproxy-,Netflix
 host-keyword,netflixdnstest,Netflix

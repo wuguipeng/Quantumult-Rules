@@ -1,6 +1,6 @@
 ; 内容：OpenAi
 ; 数量：14条
-host,browser-intake-datadoghq.com,OpenAi,OpenAi
+host,browser-intake-datadoghq.com,OpenAi
 host,static.cloudflareinsights.com,OpenAi
 host-suffix,ai.com,OpenAi
 host-suffix,algolia.net,OpenAi
