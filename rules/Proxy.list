@@ -2,9 +2,12 @@
 host-suffix,v2ex.com,proxy
 host-suffix,nodeseek.com,proxy
 host-suffix,hostloc.com,proxy
+host-suffix,lowendtalk.com,proxy
 
-; imgur
+; 图床
 host-suffix,imgur.com,proxy
+host-suffix,111666.best,proxy
+host-suffix,sda1.dev,proxy
 
 ; nnr
 host-suffix,nnr.moe,proxy
@@ -46,6 +49,7 @@ host-suffix,tmdb.org,proxy
 host-suffix,musicbrainz.org,proxy
 host-suffix,javdb.com,proxy
 host-suffix,thetvdb.com,proxy
+
 
 ; homepage
 host-suffix,gethomepage.dev,proxy
