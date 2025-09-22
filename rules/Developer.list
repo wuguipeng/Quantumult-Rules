@@ -21,4 +21,6 @@ host-suffix,stackoverflow.com,Developer
 host-suffix,brew.sh,Developer
 host-suffix,registry.npmjs.org,Developer
 host-suffix,pypi.org,Developer
-host-suffix,openjfx.io,proxy
+host-suffix,openjfx.io,Developer
+host-suffix,nextui.org,Developer
+host-suffix,nextjs.org,Developer

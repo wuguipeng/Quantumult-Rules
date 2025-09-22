@@ -22,5 +22,6 @@ host-suffix,youtube-nocookie.com,Google
 host-suffix,youtube.com,Google
 host-suffix,yt.be,Google
 host-suffix,ytimg.com,Google
+host-suffix,appsheet.com,proxy
 ip-cidr,74.125.0.0/16,Google
 ip-cidr,173.194.0.0/16,Google

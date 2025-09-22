@@ -49,6 +49,8 @@ host-suffix,tmdb.org,proxy
 host-suffix,musicbrainz.org,proxy
 host-suffix,javdb.com,proxy
 host-suffix,thetvdb.com,proxy
+host-suffix,last.fm,proxy
+host-suffix,rateyourmusic.com,proxy
 
 
 ; homepage
@@ -69,23 +71,42 @@ host-suffix,hetzner.com,proxy
 host-suffix,claw.cloud,proxy
 host-suffix,cloudcone.com,proxy
 host-suffix,serv00.com,proxy
+host-suffix,cloudflare.com,proxy
+host-suffix,hostdzire.com,proxy
 
 ; mega
 host-suffix,mega.nz,proxy
 host-suffix,mega.io,proxy
 
-; 未归档
+; 影视
+host-suffix,spotify.com,proxy
+
+; emby
+host-suffix,cloudflare.v50.su,proxy
+host-suffix,zoxfree.3767483.xyz,OneDrive
+
+
+; 文档
+host-suffix,rclone.org,proxy
 host-suffix,wordpress.com,proxy
+host-suffix,movie-pilot.org,proxy
+host-suffix,axshare.com,proxy
+host-suffix,ubuntu.com,proxy
+
+; 未归档
 host-suffix,magnetdl.com,proxy
 host-suffix,missav.com,proxy
 host-suffix,xunleix.com,proxy
 host-suffix,changeip.com,proxy
 host-suffix,overleaf.com,proxy
 host-suffix,perplexity.ai,proxy
-host-suffix,nextui.org,proxy
-host-suffix,nextjs.org,proxy
-host-suffix,axshare.com,proxy
 host-suffix,freenom.com,proxy
 host-suffix,genius.com,proxy
 host-suffix,limetorrents.lol,proxy
-host-suffix,ubuntu.com,proxy
+host-suffix, pengpool.com, proxy
+host-suffix, javbus.com, proxy
+host-suffix, greasyfork.org, proxy
+
+
+ip-cidr, 152.89.104.104/24, proxy
+ip-cidr, 185.228.139.233/24, proxy
